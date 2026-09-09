@@ -21,7 +21,7 @@ Full queries with inline insights: [`superstore_analysis.sql`](superstore_analys
 
 **Regional Performance**
 - West region drives the highest revenue (₹7.25L) *and* the best profit margin (14.94%)
-- Central has the 2nd-highest sales volume but the weakest margin (7.92%) — signaling over-discounting or high costs
+- Central has the 2nd-highest sales volume but the weakest margin (7.92%) - signaling over-discounting or high costs
 - West + East together account for over 61% of total company sales
 
 **Category Insights**
